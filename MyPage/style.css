@@ -1,0 +1,53 @@
+body {
+    background-color: #0a0a0c;
+}
+
+h1 {
+    border: 1px solid black;
+    color: white;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+div.Aatrox {
+    border: 1px solid black;
+    background-image: url(Images/Aatrox_0.jpg);
+    background-position: 70.364% 32.037%;
+    opacity: 1;
+}
+
+div.Ahri {
+    background-image: url(Images/Ahri_0.jpg);
+    background-position: 67.4897% 14.6444%;
+    opacity: 1;
+}
+
+div.Akali {
+    background-image: url(Images/Akali_0.jpg);
+    background-position: 48.9026% 15%;
+    opacity: 1;
+}
+
+div.Akshan {
+    background-image: url(Images/072221_AkshanChampionTheme_Banner.jpg);
+    background-position: 67.7083% 50.9259%;
+    opacity: 1;
+}
+
+div.Alistar {
+    background-image: url(Images/Alistar_0.jpg);
+    background-position: 65.1029% 19,3863%;
+    opacity: 1;
+    box-sizing: inherit;
+}
+
+div.Amumu {
+    background-image: url(Images/Amumu_0.jpg);
+    position: absolute;
+    /* top: 0px;
+    left: 0px; */
+    /* width: 100%;
+    height: 100%; */
+    opacity: 1;
+}
